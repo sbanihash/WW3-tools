@@ -1,0 +1,8 @@
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180802_mem000_2018080203to2018091900.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180809_mem000_2018080903to2018092600.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180816_mem000_2018081603to2018100300.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180823_mem000_2018082303to2018101000.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180830_mem000_2018083003to2018101700.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180906_mem000_2018090603to2018102400.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180913_mem000_2018091303to2018103100.nc
+/scratch2/NCEPDEV/marine/Saeideh.Banihashemi/GlobalDev/GEFS/EP6-fix/summer-2018/EVAL/WW3.Altimeter_20180920_mem000_2018092003to2018110700.nc
